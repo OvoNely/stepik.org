@@ -19,6 +19,8 @@ public class TheLongestWord {
 			}
 		}
 		
+		scanner.close();
+		
 		System.out.println(result);
 		
 	}
