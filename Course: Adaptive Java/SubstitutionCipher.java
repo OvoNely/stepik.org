@@ -38,5 +38,6 @@ public class SubstitutionCipher {
         System.out.println(encoded.toString());
         System.out.println(decoded.toString());
 
+        scanner.close();
     }
 }
